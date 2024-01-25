@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Volunteers](https://amazinghuman.in/)
 
-- 👨‍💻 All of my projects are available at [profile.sathish.co.in](profile.sathish.co.in)
+- 👨‍💻 All of my projects are available at [profile.sathish.co.in](https://profile.sathish.co.in)
 
 - 📝 I regularly write articles on [https://medium.com/@sathsish90](https://medium.com/@sathsish90)
 
