@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathsish90" alt="sathsish90" /></a> </p>
 
-- 🔭 I’m currently working on [CyberOn University](https://github.com/sathsish90/Cyber4U/blob/main/Index.md)
-
-- 🌱 I’m currently learning **Azure and DevSecOps**
-
-- 👯 I’m looking to collaborate on [SkillMate](https://skillmate.ai/)
-
 - 🤝 I’m looking for help with [Volunteers](https://amazinghuman.in/)
 
 - 👨‍💻 All of my projects are available at [profile.sathish.co.in](https://profile.sathish.co.in)
